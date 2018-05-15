@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Capitais Maps</string>
+    <string name="title_activity_maps">Capitais Maps</string>
+    <string name="type_capital">Digite a capital</string>
+    <string name="information_string">Escolha a capital que deseja visitar, vamos mostrar a localização:</string>
+    <string name="united_states">Estados Unidos</string>
+    <string name="canada">Canadá</string>
+    <string name="spain">Espanha</string>
+    <string name="south_africa">África do Sul</string>
+    <string name="japan">Japão</string>
+    <string name="south_korea">Coreia do Sul</string>
+    <string name="germany">Alemanha</string>
+    <string name="argentina">Argentina</string>
+    <string name="mexico">México</string>
+    <string name="brasilia">Brasília</string>
+    <string name="washington">Washington</string>
+    <string name="ottawa">Ottawa</string>
+    <string name="madrid">Madri</string>
+    <string name="pretoria">Pretória</string>
+    <string name="tokyo">Tóquio</string>
+    <string name="seul">Seul</string>
+    <string name="berlin">Berlim</string>
+    <string name="buenos_aires">Buenos Aires</string>
+    <string name="mexico_city">Cidade do México</string>
+    <string name="map_not_ready">O mapa não está pronto</string>
+    <string name="no_signal">Nenhum sinal de GPS</string>
+    <string name="no_type_capital">Você não digitou a capital</string>
+    <string name="not_found">Dados indisponíveis para sua escolha</string>
+    <string name="message_gps">Para ver as coordenadas você precisa do GPS</string>
+    <string name="brazil">Brasil</string>
+</resources>

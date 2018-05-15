@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Capitals Maps</string>
-    <string name="title_activity_maps">Capitais Maps</string>
+    <string name="title_activity_maps">Capitals Maps</string>
     <string name="type_capital">Enter the capital</string>
     <string name="information_string">Choose a capital you wish to visit, we will show the location:</string>
-    <string name="Brazil">Brazil</string>
+    <string name="brazil">Brazil</string>
     <string name="united_states">United States</string>
     <string name="canada">Canada</string>
     <string name="spain">Spain</string>
@@ -27,4 +27,5 @@
     <string name="no_signal">No GPS signal</string>
     <string name="no_type_capital">You did not enter the capital</string>
     <string name="not_found">Data unavailable for your choice</string>
+    <string name="message_gps">To see the coordinates you need the GPS</string>
 </resources>

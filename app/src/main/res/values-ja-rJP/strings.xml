@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">首都の地図</string>
+    <string name="title_activity_maps">首都の地図</string>
+    <string name="type_capital">首都を入力</string>
+    <string name="information_string">訪問したい首都を選択し、私たちは場所を示します：</string>
+    <string name="united_states">アメリカ</string>
+    <string name="canada">カナダ</string>
+    <string name="spain">スペイン</string>
+    <string name="south_africa">南アフリカ</string>
+    <string name="japan">日本</string>
+    <string name="south_korea">韓国</string>
+    <string name="germany">ドイツ</string>
+    <string name="argentina">アルゼンチン</string>
+    <string name="mexico">メキシコ</string>
+    <string name="brasilia">ブラジリア</string>
+    <string name="washington">ワシントン</string>
+    <string name="ottawa">オタワ</string>
+    <string name="madrid">マドリード</string>
+    <string name="pretoria">プレトリア</string>
+    <string name="tokyo">東京</string>
+    <string name="seul">ソウル</string>
+    <string name="berlin">ベルリン</string>
+    <string name="buenos_aires">ブエノスアイレス</string>
+    <string name="mexico_city">メキシコシティ</string>
+    <string name="map_not_ready">マップは準備ができていません</string>
+    <string name="no_signal">GPS信号なし</string>
+    <string name="no_type_capital">あなたは首都に入らなかった</string>
+    <string name="not_found">あなたの選択のために利用できないデータ</string>
+    <string name="message_gps">GPSが必要な座標を見るには</string>
+    <string name="brazil">ブラジル</string>
+</resources>

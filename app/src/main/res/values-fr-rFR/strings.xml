@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cartes Capitales</string>
+    <string name="title_activity_maps">Cartes Capitales</string>
+    <string name="type_capital">Entrez la capitale</string>
+    <string name="information_string">Choisissez la capitale que vous souhaitez visiter, nous montrerons l\'emplacement:</string>
+    <string name="united_states">États Unis</string>
+    <string name="canada">Canada</string>
+    <string name="spain">Espagne</string>
+    <string name="south_africa">Afrique du Sud</string>
+    <string name="japan">Japon</string>
+    <string name="south_korea">Corée du Sud</string>
+    <string name="germany">Allemagne</string>
+    <string name="argentina">Argentine</string>
+    <string name="mexico">Mexique</string>
+    <string name="brasilia">Brasilia</string>
+    <string name="washington">Washington</string>
+    <string name="ottawa">Ottawa</string>
+    <string name="madrid">Madrid</string>
+    <string name="pretoria">Pretoria</string>
+    <string name="tokyo">Tokyo</string>
+    <string name="seul">Séoul</string>
+    <string name="berlin">Berlin</string>
+    <string name="buenos_aires">Buenos Aires</string>
+    <string name="mexico_city">Mexico</string>
+    <string name="map_not_ready">La carte n\'est pas prête</string>
+    <string name="no_signal">Pas de signal GPS</string>
+    <string name="no_type_capital">Vous n\'êtes pas entré dans la capitale</string>
+    <string name="not_found">Données indisponibles pour votre choix</string>
+    <string name="message_gps">Pour voir les coordonnées, vous avez besoin du GPS</string>
+    <string name="brazil">Brésil</string>
+</resources>
